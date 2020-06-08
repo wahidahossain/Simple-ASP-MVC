@@ -1,0 +1,9 @@
+﻿body {
+    
+}
+.field-validation-error {
+color:#808080;
+}
+input-validation-error {
+border: 1px solid #f00;
+}
